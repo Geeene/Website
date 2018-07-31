@@ -1,0 +1,14 @@
+
+option,
+input {
+    width: 300px;
+    margin: 5px;
+    padding: 0px;
+}
+
+select,
+.button {
+    width: 304px;
+    margin: 5px;
+    padding: 0px;
+}
